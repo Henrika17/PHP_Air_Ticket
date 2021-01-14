@@ -1,0 +1,22 @@
+h3{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.modal-backdrop{
+    background-color: #ffffff;
+    position: unset;
+}
+
+.modal-body{
+    background-color: #95999c;
+}
+
+.pavadinimas, .skrydzio-perziura{
+    background-color: beige;
+}
+
+.validation-erros ul{
+    list-style: none;
+}
